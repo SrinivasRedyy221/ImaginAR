@@ -20,7 +20,7 @@ const About = () => (
 
 Augmented Reality merges the virtual and physical realms, allowing us to overlay digital content onto our real-world environment. With our cutting-edge AR technology, we bring imagination to life, blurring the boundaries between what is real and what is possible.
 
-At our website, we offer a wide range of immersive AR experiences that cater to diverse interests and industries. Whether you're an avid gamer, an enthusiastic learner, a creative professional, or a business seeking innovative solutions, we have something incredible in store for you.
+At our website, we offera wide range of immersive AR experiences that cater to diverse interests and industries. Whether you're an avid gamer, an enthusiastic learner, a creative professional, or a business seeking innovative solutions, we have something incredible in store for you.
       </motion.p>
 
       <motion.img
